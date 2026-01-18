@@ -22,6 +22,6 @@ La simulación permite ajustar variables críticas para observar el punto de inf
 3. Inicia el proyecto: `npm start`
 
 ---
-**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
-**Institución:** Universidad Mayor de San Andrés (UMSA)
-**Contexto:** Proyecto de simulación de sistemas y modelos matemáticos.
+* **Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
+* **Institución:** Universidad Mayor de San Andrés (UMSA)
+* **Contexto:** Proyecto de simulación de sistemas y modelos matemáticos.
